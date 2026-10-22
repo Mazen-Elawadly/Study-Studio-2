@@ -1,0 +1,6 @@
+{
+  "name": "Study Studio",
+  "description": "All-in-one revision and exam companion with paper pacing dials, ambient sound, exam countdowns, and official grade boundaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
